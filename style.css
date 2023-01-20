@@ -1,0 +1,37 @@
+body {
+    background-color: #E8F9FD; /* white */
+}
+h1 {
+   font-size: 80px;
+   text-align: center;
+   text-shadow: 0 0 5px #f2ebc7, 0 0 10px #f2ebc7, 0 0 15px #bfb78c, 0 0 20px #bfb78c, 0 0 25px #bfb78c, 0 0 30px #bfb78c, 0 0 35px #bfb78c;
+}
+.A {
+    color: #FF1E00; /* red */
+}
+
+ .B {
+     display:inline-block;
+     color: #59CE8F; /* green */
+     font-family: 'Playfair Display', serif;
+     font-size: 100px;
+}
+ .altitle {
+      color: #FF0000; /* red */
+     font-family: 'Playfair Display', serif;
+     font-size: 50px;
+}
+ button {
+    background-color: #FF0000; /* red */
+     margin-left: 25px;
+    border-color: #00FF00; /* green */
+     border-radius: 0;
+     font-size: 20px;
+}
+
+}
+ p {
+     font-size: 20px;
+     margin-left: 25%;
+     margin-right: 25%;
+}
